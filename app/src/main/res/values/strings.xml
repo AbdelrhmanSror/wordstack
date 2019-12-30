@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordStack</string>
+    <string name="start">Start</string>
+    <string name="undo">Undo</string>
+    <string name="game_started">Game Started</string>
+    <string name="game_ended">Gamed Ended</string>
+    <string name="word1_answer">Word 1: is %1$s</string>
+    <string name="word2_answer">Word 2: is %1$s</string>
+
+</resources>
